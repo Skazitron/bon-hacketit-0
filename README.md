@@ -6,8 +6,14 @@
 - Bootstrap
 
 ## Prerequisites:
-- npm
-- 
+```bash
+sudo apt install npm
+cd bon-hacketit-0 
+```
+```npm
+npm install
+npm start
+```
 
 ## Purpose:
 This web-app provides its user with nutritional info based on the recipe they query. 
