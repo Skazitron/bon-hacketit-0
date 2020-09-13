@@ -1,0 +1,25 @@
+.recipe {
+    border-radius: 10px;
+    box-shadow: 0px, 5px, 20px rgb(49, 49, 49);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    min-width: 40%;
+    align-items: center;
+    background: white;
+}
+
+.title {
+    color: #ff7e67;
+}
+
+.darkGreen {
+    color: #006a71;
+}
+
+.calories {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
